@@ -1,1 +1,1 @@
-# entrepot-distant
+initialisation du fichier
